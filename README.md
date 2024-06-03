@@ -1,17 +1,3 @@
-To create a comprehensive README file for your GitHub repository, I'll start by inspecting the provided Python files to understand the project's structure and functionality. Let's go through each file to gather the necessary information.
-
-I'll begin by reviewing the content of each file:
-
-1. `block.py`
-2. `paddle.py`
-3. `main.py`
-4. `ball.py`
-
-Let's start by reading these files.
-
-Based on the content of the provided files, it appears that the project is a simple Breakout Pong game implemented using the Turtle graphics module in Python. Below is a README file for your GitHub repository, detailing the project's purpose, setup instructions, usage, and other relevant information.
-
----
 
 # Breakout Pong Game
 
